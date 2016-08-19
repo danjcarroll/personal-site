@@ -49,7 +49,7 @@
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right">
                     <li>
-                        <a href="/p001_resume.php">RESUME</a>
+                        <a href="/resume.php">RESUME</a>
                     </li>
                     <li>
                         <a href="p001_portfolio.php">PORTFOLIO</a>
@@ -128,7 +128,7 @@
                 <div class="col-lg-5 col-lg-offset-1 col-sm-push-6  col-sm-6">
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
-                    <a href="/p001_resume.php">
+                    <a href="/resume.php">
                         <h2 class="section-heading">Design and Engineering<br>Texas' Future Infrastructure</h2>
                     </a>
                     <p class="lead">Designs and projects across Texas for roundabouts, city streets, county roads, 5 level highway interchanges, and elevated toll roads, were all part of a 15 year civil engineering career for Dan Carroll, P.E., Texas A&M Class of '00.</p>
