@@ -41,8 +41,8 @@ a {
     padding-bottom: 50px;
     text-align: center;
     color: #f8f8f8;
-    background: url(/img/index-bg.jpg) no-repeat fixed center;
-    background-size: cover;
+    /*background: url(/img/index-bg.jpg) no-repeat fixed center;
+    background-size: cover;*/
 }
 
 .intro-message {
@@ -90,12 +90,31 @@ a {
         width: 100%;
     }
 }
+
+.button {
+    padding: 15px;
+
+    color: white;
+    background-color: transparent;
+    border: 1.5px solid white;
+    font-size: 1.25em;
+    text-transform: uppercase;
+}
+
+.button:hover {
+    background-color: white;
+    color: black;
+}
 .brand-text{
     font-size: 20px
 }
 
-.img-bg {
-    background: url(/img/index-bg.jpg) no-repeat fixed center;
+.img-index-bg {
+    background: url(/img/index-bg-bw.jpg) no-repeat fixed center;
+    background-size: cover;
+}
+.img-resume-bg {
+    background: url(/img/resume-bg-bw.jpg) no-repeat fixed center;
     background-size: cover;
 }
 

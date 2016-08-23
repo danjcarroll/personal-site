@@ -49,10 +49,10 @@
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right">
                     <li>
-                        <a href="portfolio.php">PORTFOLIO</a>
+                        <a href="/portfolio/">PORTFOLIO</a>
                     </li>
                     <li>
-                        <a href="/resume.php">RESUME</a>
+                        <a href="/resume/">RESUME</a>
                     </li>
                     <li class="btn-contact">
                         <a href="contact.php">CONTACT</a>
@@ -67,7 +67,7 @@
 
     <!-- Main -->
     <a id="main"></a>
-    <div class="section-main">
+    <div class="section-main img-index-bg">
         <div class="container">
 
             <div class="row">
