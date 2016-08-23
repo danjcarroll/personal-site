@@ -49,10 +49,10 @@
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right">
                     <li>
-                        <a href="/resume.php">RESUME</a>
+                        <a href="portfolio.php">PORTFOLIO</a>
                     </li>
                     <li>
-                        <a href="portfolio.php">PORTFOLIO</a>
+                        <a href="/resume.php">RESUME</a>
                     </li>
                     <li class="btn-contact">
                         <a href="contact.php">CONTACT</a>
@@ -65,9 +65,9 @@
     </nav>
 
 
-    <!-- Header -->
-    <a name="about"></a>
-    <div class="intro-header">
+    <!-- Main -->
+    <a id="main"></a>
+    <div class="section-main">
         <div class="container">
 
             <div class="row">
@@ -107,49 +107,44 @@
         <!-- /.container -->
 
     </div>
-    <!-- /.intro-header -->
+    <!-- /.main -->
      
-        <div class="banner"><a  name="contact"></a>
+     <!-- Banner -->
+    <div class="banner"><a  name="connections"></a>
 
         <div class="container">
 
             <div class="row">
-                <div class="col-lg-6">
-                    <h2>Connect to DjCARROLL:</h2>
-                    <ul class="list-inline banner-social-buttons">
-                            <li>
-                                <a href="https://twitter.com/primalRambler" target="_blank"><i class="fa fa-twitter icon-social fa-fw"></i></a>
-                            </li>
-                            <li>
-                                <a href="https://github.com/primalrambler" target="_blank"><i class="fa fa-github icon-social"></i></a>
-                            </li>
-                            <li>
-                                <a href="http://linkedin.com/in/djcarroll-1993" target="_blank"><i class="fa fa-linkedin icon-social"></i></a>
-                            </li>
-                    </ul>
+                <div class="col-xs-12 text-center">
+                    <h2>DANIEL j CARROLL</h2>
                 </div>
+                <nav class="col-xs-12 text-center">
+                    <a href="https://twitter.com/primalRambler" target="_blank"><i class="fa fa-twitter icon-social fa-fw"></i></a>
+                    <a href="https://github.com/primalrambler" target="_blank"><i class="fa fa-github icon-social"></i></a>
+                    <a href="http://linkedin.com/in/djcarroll-1993" target="_blank"><i class="fa fa-linkedin icon-social"></i></a>
+                </nav>
             <div class="row">
-                <div class="col-lg-12">
-                    <ul class="list-inline">
+                <div class="col-xs-12 text-center">
+                    <ul class="list-inline link-list">
                         <li>
                             <a href="#">Home</a>
                         </li>
                         <li class="footer-menu-divider">&sdot;</li>
                         <li>
-                            <a href="#about">Resume</a>
+                            <a href="/resume.php">Resume</a>
                         </li>
                         <li class="footer-menu-divider">&sdot;</li>
                         <li>
-                            <a href="#services">Portfolio</a>
+                            <a href="/portfolio.php">Portfolio</a>
                         </li>
                         <li class="footer-menu-divider">&sdot;</li>
                         <li>
-                            <a href="#contact">Contact</a>
+                            <a href="contact.html">Contact</a>
                         </li>
                     </ul>
                 </div>
             </div>
-
+            <div class="row bueller-padding"></div>
         </div>
         <!-- /.container -->
 
@@ -159,9 +154,19 @@
     <!-- Footer -->
     <footer>
         <div class="container">
-            
+            <div class="col-lg-12">
+                <div class="footer-message img-footer">
+                    <h2>It's over.<br>Go to the top <a href="#main">
+                        <i class="fa fa-chevron-up fa-2x" aria-hidden="true"></i>
+                    </a>
+
+                    </h2>
+                </div>
+            </div>
         </div>
+        <!-- .container -->
     </footer>
+    <!-- .footer -->
 
 
     <!-- Bootstrap core JavaScript

@@ -8,7 +8,8 @@ body,
 html {
     width: 100%;
     height: 100%;
-    background-color: #080808;
+    background-color: #26262a;
+    /*#080808;*/
 }
 
 body,
@@ -22,6 +23,10 @@ h6 {
     font-weight: 700;
 }
 
+a {
+    color: ;
+}
+
 .topnav {
     font-size: 14px;
 }
@@ -31,11 +36,7 @@ h6 {
     font-weight: 400;
 }
 
-.icon-lg {
-    font-size: 3em;
-}
-
-.intro-header {
+.section-main {
     padding-top: 50px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
     padding-bottom: 50px;
     text-align: center;
@@ -55,7 +56,6 @@ h6 {
     text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
     font-size: 5em;
 }
-
 
 .intro-divider {
     width: 400px;
@@ -94,9 +94,8 @@ h6 {
     font-size: 20px
 }
 
-
 .img-bg {
-    background: url(/img/index-bg.jpeg) no-repeat fixed center;
+    background: url(/img/index-bg.jpg) no-repeat fixed center;
     background-size: cover;
 }
 
@@ -223,9 +222,29 @@ div.transbox {
     /*margin-top: 15px;*/
 }
 
+.bueller-padding {
+    padding: 50vh;
+}
+
+.img-footer {
+    background: url(/img/FerrisBuellerClipped.jpg) no-repeat fixed center;
+    /*background-size: cover;*/
+}
+
 footer {
     padding: 50px 0;
-    background-color: #f8f8f8;
+    /*background-color: #f8f8f8;*/
+}
+.footer-message {
+    position: relative;
+    padding-top: 10%;
+    padding-bottom: 10%;
+}
+
+.footer-message > h3 {
+    margin: 0;
+    text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
+    font-size: 5em;
 }
 
 p.copyright {
