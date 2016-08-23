@@ -8,7 +8,7 @@ body,
 html {
     width: 100%;
     height: 100%;
-    background-color: #222;
+    background-color: #080808;
 }
 
 body,
@@ -31,19 +31,23 @@ h6 {
     font-weight: 400;
 }
 
+.icon-lg {
+    font-size: 3em;
+}
+
 .intro-header {
     padding-top: 50px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
     padding-bottom: 50px;
     text-align: center;
     color: #f8f8f8;
-    background: url(/img/intro-bg.jpg) no-repeat fixed center;
+    background: url(/img/index-bg.jpg) no-repeat fixed center;
     background-size: cover;
 }
 
 .intro-message {
     position: relative;
-    padding-top: 20%;
-    padding-bottom: 20%;
+    padding-top: 5%;
+    padding-bottom: 5%;
 }
 
 .intro-message > h1 {
@@ -51,6 +55,7 @@ h6 {
     text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
     font-size: 5em;
 }
+
 
 .intro-divider {
     width: 400px;
@@ -89,23 +94,10 @@ h6 {
     font-size: 20px
 }
 
-.network-name {
-    text-transform: uppercase;
-    font-size: 14px;
-    font-weight: 400;
-    letter-spacing: 2px;
-}
-/*.portfolio-wrapper {
-    margin: 1%;
-    padding: 0px;
-}*/
 
-.portfolio-block {
-    width: 33%;
-    height: auto;
-    margin: 1%;
-    border: solid black 1px;
-    float:left;
+.img-bg {
+    background: url(/img/index-bg.jpeg) no-repeat fixed center;
+    background-size: cover;
 }
 
 .content-section-a {
@@ -117,6 +109,10 @@ h6 {
     padding: 50px 0;
     border-top: 1px solid #e7e7e7;
     border-bottom: 1px solid #e7e7e7;
+}
+
+.content-section {
+    padding: 7.5% 0 15% 0;
 }
 
 .section-heading {
@@ -132,14 +128,14 @@ h6 {
 .banner {
     padding: 100px 0;
     color: #f8f8f8;
-    background: url(../img/banner-bg.jpg) no-repeat center center;
-    background-size: cover;
+    /*background: url(../img/banner-bg.jpg) no-repeat center center;
+    background-size: cover;*/
 }
 
 .banner h2 {
     margin: 0;
     text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
-    font-size: 3em;
+    /*font-size: 3vh;*/
 }
 
 .banner ul {
@@ -149,6 +145,17 @@ h6 {
 .banner-social-buttons {
     float: right;
     margin-top: 0;
+}
+
+.icon-social {
+    color: grey;
+    transform: scale(2.0);
+    margin: 30px;
+}
+
+.icon-social:hover {
+    color: white;
+    transform: scale(2.5);
 }
 
 @media(max-width:1199px) {
