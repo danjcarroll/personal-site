@@ -99,24 +99,31 @@
         <div class="container">
         	<a name="web-development"></a>
             <div class="row">
-                <div class="col-lg-7 col-sm-6">
+                <div class="col-md-3 col-sm-12">
                     <div class="clearfix"></div>
+                        <h2 class="section-heading">TECHNOLOGIES</h2>
+                    </div>
 
-                    <h2 class="section-heading">WEB DEVELOPMENT</h2>
-                    <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse</p>
-                </div>
-
-                <div class="col-lg-4 col-lg-offset-1 col-sm-6">
+                <div class="col-md-4 col-md-offset-2 col-sm-12">
                 	
-                    <h3>LANGUAGES</h3>
+                    <h3>WORKING KNOWLEDGE</h3>
                     <p>replace with icons or images of all languages. make it two columns.</p>
                     <ul>
                     	<li>HTML</li>
                     	<li>CSS</li>
                     	<li>JavaScript</li>
+                        <li>Git</li>
+                        <li>Agile development</li>
+                    </ul>
+                </div>
+                 <div class="col-md-3 col-sm-12">
+                    
+                    <h3>SOME EXPOSURE</h3>
+                    <p>replace with icons or images of all languages. make it two columns.</p>
+                    <ul>
+                        <li>Python</li>
+                        <li>C</li>
+                        <li>more</li>
                     </ul>
                 </div>
             </div>
@@ -129,14 +136,14 @@
 	<div class="content-section-b">
         <div class="container">
 
-        	<a name="work-experience"></a>
+        	<a id="work-experience"></a>
             <div class="row">
-                <div class="col-lg-7 col-sm-6">
+                <div class="col-md-4 col-sm-12">
                 	<h2 class="section-heading">WORK EXPERIENCE</h2>
-                	<hr class="section-heading-spacer">
-                    <div class="clearfix"></div>
-                  
-                    <h4 >PROJECT ENGINEER • PROJECT MANAGER</h4>
+                </div>
+                  <div class="col-md-8 col-sm-12">
+                    <h4 >PROJECT ENGINEER • DESIGN TASK LEAD • PROJECT MANAGER</h4>
+                    <h5>HNTB <small>2008 - 2016</small></h5>
                  	<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
                  	tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
                  	quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
@@ -145,6 +152,9 @@
                  	proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 
                  	<h4>PROJECT ENGINEER • DESIGN TASK LEAD</h4>
+                    <h5>CAMACHO-HERNANDEZ <small>2007 - 2008</small></h5>
+                    <h5>JACOBS ENGINEERING <small>2005 - 2007</small></h5>
+                    <h5>LOCKWOOD, ANDREWS & NEWNAM <small>2003 - 2005</small></h5>
                  	<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
                  	tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
                  	quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
@@ -153,6 +163,7 @@
                  	proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 
                  	<h4>TRAFFIC ENGINEER</h4>
+                    <h5>PAPE-DAWSON ENGINEERS <small>2001 - 2003</small></h5>
                  	<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
                  	tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
                  	quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
@@ -160,47 +171,15 @@
                  	cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
                  	proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 
-                 	<h4>SPACE OPERATIONS OFFICER</h4>
+                 	<h4>USAF SPACE OPERATIONS OFFICER</h4>
+                    <h5>2<sup>nd</sup> SPACE LAUNCH SQUADRON <small>1995 - 1997</small></h5>
+                    <h5>8<sup>th</sup> MISSILE WARNING SQUADRON <small>1993 - 1995</small></h5>
                  	<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
                  	tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
                  	quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
                  	consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
                  	cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
                  	proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-                </div>
-                <div class="col-lg-4 col-lg-offset-1 col-sm-6">
-                	
-                    <h3>WORK HISTORY</h3>
-                    	<h4><a href="http:hntb.com">HNTB </a><small>2008 - 2016</small></h4>
-                    	<p>Project Engineer • Squad Leader</p>
-                    	<p>Project Manager • Design Task Lead</p>
-                    	<p> San Antonio, Texas </p>
-                    	<br>
-                    	<h4>CAMACHO-HERNANDEZ <small>2007 - 2008</small></h4>
-                    	<p>Project Engineer</p>
-                    	<p> San Antonio, Texas </p>
-                    	<br>
-                    	<h4>JACOBS ENGINEERING <small>2005 - 2007</small></h4>
-                    	<p>Project Engineer</p>
-                    	<p> San Antonio, Texas </p>
-                    	<br>
-                    	<h4>LOCKWOOD, ANDREWS & NEWNAM <small>2003 - 2005</small></h4>
-                    	<p>Engineer</p>
-                    	<p> San Antonio, Texas </p>
-                    	<br>
-                    	<h4>PAPE-DAWSON ENGINEERS <small>2001 - 2003</small></h4>
-                    	<p>Traffic Engineer</p>
-                    	<p> San Antonio, Texas </p>
-                    	<br>
-                    	<h4>2<sup>nd</sup> SPACE LAUNCH SQUADRON <small>1995 - 1997</small></h4>
-                    	<p>Chief, Operations Training • Launch Crew Commander • Satellite Operations Commander</p>
-                    	<p> Vandenberg AFB, California </p>
-                    	<br>
-                    	<h4>8<sup>th</sup> MISSILE WARNING SQUADRON <small>1993 - 1995</small></h4>
-                    	<p>Missile Warning Crew Commander</p>
-                    	<p> Eldorado AS, Texas </p>
-
-
                 </div>
             </div>
         </div>
@@ -210,89 +189,76 @@
 
     <div class="content-section-a">
         <div class="container">
-        	<a name="education"></a>
-
-			<div class="row">
-                <div class="col-md-12">
-                    <div class="clearfix"></div>
-                    <h2 class="section-heading">EDUCATION • CERTIFICATIONS</h2>
-                </div>
-            </div>
-
+        	<a id="education"></a>
             <div class="row">
+                <div class="col-md-4 col-sm-12">
+                    <h2 class="section-heading">EDUCATION</h2>
+                </div>
+                <div class="col-md-8 col-sm-12">
+                    <h4>FULL STACK WEB DEVELOPER</h4>
+                    <h5>Codeup, San Antonio, TX <small>2016</small></h5>
+                    <br>
+                    <h4>MASTERS OF ENGINEERING • CIVIL ENGINEERING</h4>
+                    <h5>Texas A&M University, College Station, TX <small>2000</small></h5>
+                    <br>
+                    <h4>BACHELOR OF SCIENCE • CIVIL ENGINEERING</h4>
+                    <h5>Texas A&M University, College Station, TX  <small>1999</small></h5>
+                    <br>
+                    <h4>BACHELOR OF SCIENCE • GENERAL ACADEMICS</h4>
+                    <h5>United States Air Force Academy, Colorado Springs, CO <small>1993</small></h5>
+                    <br>
 
-                <div class="col-lg-4 col-sm-6">
-                    <a href="http://codeup.com/" target="_blank">
-                        <img src="/img/Codeup-logo-2.png" class="img-responsive img-college hover">
-                    </a>
-                    <div class="bg-education bg-codeup">
-                        <div class="transbox">
-                            <h3>CODEUP</h3>
-                            <p>July - November 2016</p>
-                            <p class="lead">Full Stack Web Development</p>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-lg-4 col-sm-6">
-                    <div class="bg-education bg-am">
-                        <a href="http://tamu.edu/" target="_blank">
-                            <img src="/img/TAMLogoBox.png" class="img-responsive img-college hover">
-                        </a>
-                        <div class="transbox">
-                            <h3>TEXAS A&M UNIVERSITY</h3>
-                            <p>January - December 2000</p>
-                            <p class="lead">Master of Engineering</p>
-                            <p>Civil Engineering</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-sm-6">
-                    <div class="bg-education bg-am">
-                        <a href="http://tamu.edu/" target="_blank">
-                            <img src="/img/TAMLogoBox.png" class="img-responsive img-college hover">
-                        </a>
-                        <div class="transbox">
-                            <h3>TEXAS A&M UNIVERSITY</h3>
-                            <p>September 1997 - December 1999</p>
-                            <p class="lead">Bachelor of Science</p>
-                            <p>Civil Engineering</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-sm-6">
-                    <div class="bg-education bg-airforce">
-                    <a href="http://academyadmissions.com/" target="_blank">
-                        <img src="/img/usafa-shield.svg" class="img-responsive img-college hover">
-                    </a>
-                        <div class="transbox">
-                            <h3>US AIR FORCE ACADEMY</h3>
-                            <p>June 1989 - June 1993</p>
-                            <p class="lead">Bachelor of Science</p>
-                            <p>General Studies</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-sm-6">
-                    <div class="bg-education bg-tbpe">
-                    <a href="https://engineers.texas.gov/" target="_blank">
-                        <img src="/img/tbpe-logo.jpg" class="img-responsive img-college">
-                    </a>
-                        <div class="transbox">
-                            <h3>PROFESSIONAL ENGINEER</h3>
-                            <p>Active</p>
-                            <p class="lead">Texas Board of Professional Engineers</p>
-                            <p>License No. 95615</p>
-                        </div>
-                    </div>
                 </div>
 
             </div>
+
+			
+            
         </div>
         <!-- /.container -->
     </div>
     <!-- /.content-section-a -->
+ <!-- Banner -->
+    <div class="banner"><a  name="connections"></a>
 
+        <div class="container">
+
+            <div class="row">
+                <div class="col-xs-12 text-center">
+                    <h2>DANIEL j CARROLL</h2>
+                </div>
+                <nav class="col-xs-12 text-center">
+                    <a href="https://twitter.com/primalRambler" target="_blank"><i class="fa fa-twitter icon-social fa-fw"></i></a>
+                    <a href="https://github.com/primalrambler" target="_blank"><i class="fa fa-github icon-social"></i></a>
+                    <a href="http://linkedin.com/in/djcarroll-1993" target="_blank"><i class="fa fa-linkedin icon-social"></i></a>
+                </nav>
+            <div class="row">
+                <div class="col-xs-12 text-center">
+                    <ul class="list-inline link-list">
+                        <li>
+                            <a href="/index.php">Home</a>
+                        </li>
+                        <li class="footer-menu-divider">&sdot;</li>
+                        <li>
+                            <a href="/resume/">Resume</a>
+                        </li>
+                        <li class="footer-menu-divider">&sdot;</li>
+                        <li>
+                            <a href="/portfolio">Portfolio</a>
+                        </li>
+                        <li class="footer-menu-divider">&sdot;</li>
+                        <li>
+                            <a href="/contact.html">Contact</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="row bueller-padding"></div>
+        </div>
+        <!-- /.container -->
+
+    </div>
+    <!-- /.banner -->
 
 
 </html>
