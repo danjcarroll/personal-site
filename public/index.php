@@ -127,19 +127,19 @@
                 <div class="col-xs-12 text-center">
                     <ul class="list-inline link-list">
                         <li>
-                            <a href="#">Home</a>
+                            <a href="/index.php">Home</a>
                         </li>
                         <li class="footer-menu-divider">&sdot;</li>
                         <li>
-                            <a href="/resume.php">Resume</a>
+                            <a href="/resume/">Resume</a>
                         </li>
                         <li class="footer-menu-divider">&sdot;</li>
                         <li>
-                            <a href="/portfolio.php">Portfolio</a>
+                            <a href="/portfolio">Portfolio</a>
                         </li>
                         <li class="footer-menu-divider">&sdot;</li>
                         <li>
-                            <a href="contact.html">Contact</a>
+                            <a href="/contact.html">Contact</a>
                         </li>
                     </ul>
                 </div>
