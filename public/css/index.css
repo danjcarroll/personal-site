@@ -23,9 +23,18 @@ h6 {
 }
 
 a {
-    color: ;
+    color:grey;
+    font-weight: 200;
 }
 
+a:hover {
+    color: white;
+    text-decoration: none;
+}
+.lg-text {
+    font-size: 1.5em;
+    font-weight: 300;
+}
 .topnav {
     font-size: 14px;
 }
@@ -234,6 +243,14 @@ div.transbox {
   opacity: 0.6;
   filter: alpha(opacity=60); /* For IE8 and earlier */
 }
+
+.box-portfolio{
+    height: 25vw;
+    width: 25vw;
+    margin: 2vw auto;
+    border: 1px solid black;
+}
+
 
 .img-college {
     width: 50%;
