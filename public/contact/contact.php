@@ -76,8 +76,8 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="intro-message">
-                        <h3>what I've been working on recently</h3>
-                        <h1>PORT<span class="lg-text">f</span>OLIO</h1>
+                        <h3>let's get in touch</h3>
+                        <h1>CON<span class="lg-text">t</span>ACT</h1>
                         <hr class="intro-divider">
                     </div>
                 </div>
@@ -88,43 +88,22 @@
     </div>
     <!-- /.intro -->
 	
-	<div class="content-section-b">
-        <div class="container">
-        	<a id="quote"></a>
-            <div class="row">
-                <div class="col-sm-12 text-center">
-                	<h2 class="section heading"><em>I used to say that civil engineering was a lot like coding, but I had it bassakwards.<br>
-                        I was a coder working as a civil engineer...I fixed that.</em></h2>
-                </div>
-            </div>
-        </div>
-        <!-- /.container -->
-    </div>
-    <!-- /.content-section-a -->   
+ 
 
     <div class="content-section-a">
         <div class="container">
-        	<a id="portfolio"></a>
+        	<a id="contact"></a>
             <div class="row">
-                <div class="col-xs-12 text-center"><h1>UNDER CONSTRUCTION</h1></div>
-            </div>
-            <div class="row">
-                <div class="col-xs-12 col-sm-4">
-                    <div><img src="/img/weather-vane-bw.png" alt="weather map" class="img-portfolio">
-                        <div>Weather Map</div>
-                    </div>
+                <div class="col-xs-12 col-sm-6">
+                    <h2>Contact me today</h2>
+                    <address>
+                        Dan Carroll<br>
+                        18807 Millhollow<br>
+                        San Antonio, Texas 78258<br>
+                        <telephone>210.843.6523</telephone><br>
+                        <a href="mailto:carroll.codes@gmail.com?Subject=Hello%20There" target="_top"><email>carroll.codes@gmail.com</email></a>  
+                    </address>
                 </div>
-                <div class="col-xs-12 col-sm-4">
-                    <div><img src="/img/simple-simon-bw.png" alt="simple simon" class="img-portfolio">
-                        <div>Simple Simon Game</div>
-                    </div>
-                </div>
-                <div class="col-xs-12 col-sm-4">
-                    <div><img src="/img/calculator-bw.png" alt="calculator" class="img-portfolio">
-                        <div>RPN Calculator</div>
-                    </div>
-                </div>
-                
             </div>
         </div>
         <!-- /.container -->
@@ -172,8 +151,8 @@
         <!-- /.container -->
     </footer>
     <!-- /.footer -->
- 
-     <!-- Bootstrap core JavaScript
+     
+    <!-- Bootstrap core JavaScript
         ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>

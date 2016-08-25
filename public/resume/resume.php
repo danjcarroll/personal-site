@@ -43,7 +43,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand topnav brand-text" href="#">DjC</a>
+                <a class="navbar-brand topnav brand-text" href="/index.php">DjC</a>
             </div>
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
@@ -123,7 +123,7 @@
                         <li>Scheduling & Budgeting</li>
                     </ul>
                 </div>
-                 <div class="col-md-3 col-sm-12 pull-right">
+                 <div class="col-md-3 col-md-offset-1 col-sm-12">
                     
                     <h3>SOME EXPOSURE</h3>
                     <p>Self taught languages.</p>
@@ -272,7 +272,14 @@
         <!-- /.container -->
     </footer>
     <!-- /.footer -->
+ 
+ <!-- Bootstrap core JavaScript
+        ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
 
 
-</html>
 </body>
+</html>
