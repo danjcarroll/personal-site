@@ -49,13 +49,13 @@
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right">
                     <li>
-                        <a href="/portfolio/">PORTFOLIO</a>
+                        <a href="/portfolio/portfolio.php">PORTFOLIO</a>
                     </li>
                     <li>
-                        <a href="/resume/">RESUME</a>
+                        <a href="/resume/resume.php">RESUME</a>
                     </li>
                     <li class="btn-contact">
-                        <a href="contact.php">CONTACT</a>
+                        <a href="/contact/contact.php">CONTACT</a>
                     </li>
                 </ul>
             </div>
@@ -254,15 +254,15 @@
                         </li>
                         <li class="footer-text">&sdot;</li>
                         <li>
-                            <a href="/resume/">Resume</a>
+                            <a href="/resume/resume.php">Resume</a>
                         </li>
                         <li class="footer-text">&sdot;</li>
                         <li>
-                            <a href="/portfolio">Portfolio</a>
+                            <a href="/portfolio/portfolio.php">Portfolio</a>
                         </li>
                         <li class="footer-text">&sdot;</li>
                         <li>
-                            <a href="/contact.html">Contact</a>
+                            <a href="/contact/contact.php">Contact</a>
                         </li>
                     </ul>
                 </div>
