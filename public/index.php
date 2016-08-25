@@ -74,7 +74,7 @@
                 <div class="col-lg-12">
                     <div class="intro-message">
                         <h3>full stack web developer</h3>
-                        <h1>DANIEL j CARROLL</h1>
+                        <h1>DANIEL<span class="lg-text">j</span>CARROLL</h1>
                         <h3>engineer</h3>
                         <hr class="intro-divider">
                     </div>
@@ -85,21 +85,27 @@
                     <div class="clearfix"></div>
                     <i class="fa fa-code fa-5x" aria-hidden="true"></i>
                     <h2 class="section-heading">web development</h2>
-                    <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                    consequat.</p>
-                    <button class="btn btn-lg">My Work</button>
+                    <p class="lead">I'm training as a full stack developer at Codeup, 
+                                    learning how to create the websites and web apps 
+                                    that your clients want. We're using the LAMP-J+ stack
+                                    as the basis for our work, but I'm also taking the time
+                                    to learn Python.</p>
+                    <a href="/portfolio" class="btn-link">
+                        <button class="button">SEE MY WORK</button>
+                    </a>
                 </div>
                 <div class="col-md-5 col-lg-offset-2 col-xs-12 content-section">
                     <div class="clearfix"></div>
                     <i class="fa fa-cogs fa-5x" aria-hidden="true"></i>
                     <h2 class="section-heading">engineering</h2>
-                    <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                    consequat.</p>
-                    <button class="btn btn-lg">My Experience</button>
+                    <p class="lead">Fifteen years of engineering habits and instincts all
+                                    for the price of a junior web developer! I've used Agile
+                                    methods in my design and production of projects large (>$1.5B)
+                                    and small (<$5M). I've managed schedules, budgets and ran
+                                    quality control programs for projects as well.</p>
+                    <a href="/resume" class="btn-link">
+                        <button class="button">LEARN MORE</button>
+                    </a>
                 </div>
             </div>
 
@@ -109,64 +115,47 @@
     </div>
     <!-- /.main -->
      
-     <!-- Banner -->
-    <div class="banner"><a  name="connections"></a>
+     <!-- footer -->
+    <footer class="footer"><a  id="connect"></a>
 
         <div class="container">
 
             <div class="row">
-                <div class="col-xs-12 text-center">
-                    <h2>DANIEL j CARROLL</h2>
+                <div class="col-xs-12 text-center brand">
+                    <h2>D<span class="lg-text">j</span>C</h2>
                 </div>
                 <nav class="col-xs-12 text-center">
-                    <a href="https://twitter.com/primalRambler" target="_blank"><i class="fa fa-twitter icon-social fa-fw"></i></a>
+                    <a href="https://twitter.com/carrollCodes" target="_blank"><i class="fa fa-twitter icon-social fa-fw"></i></a>
                     <a href="https://github.com/primalrambler" target="_blank"><i class="fa fa-github icon-social"></i></a>
                     <a href="http://linkedin.com/in/djcarroll-1993" target="_blank"><i class="fa fa-linkedin icon-social"></i></a>
+                    <a href="mailto:carroll.codes@gmail.com?Subject=Hello%20There" target="_top"><i class="fa fa-envelope-o icon-social"></i></a>
                 </nav>
+            </div>
             <div class="row">
                 <div class="col-xs-12 text-center">
                     <ul class="list-inline link-list">
                         <li>
                             <a href="/index.php">Home</a>
                         </li>
-                        <li class="footer-menu-divider">&sdot;</li>
+                        <li class="footer-text">&sdot;</li>
                         <li>
                             <a href="/resume/">Resume</a>
                         </li>
-                        <li class="footer-menu-divider">&sdot;</li>
+                        <li class="footer-text">&sdot;</li>
                         <li>
                             <a href="/portfolio">Portfolio</a>
                         </li>
-                        <li class="footer-menu-divider">&sdot;</li>
+                        <li class="footer-text">&sdot;</li>
                         <li>
                             <a href="/contact.html">Contact</a>
                         </li>
                     </ul>
                 </div>
             </div>
-            <div class="row bueller-padding"></div>
         </div>
         <!-- /.container -->
-
-    </div>
-    <!-- /.banner -->
-
-    <!-- Footer -->
-    <footer>
-        <div class="container">
-            <div class="col-lg-12">
-                <div class="footer-message img-footer">
-                    <h2>It's over.<br>Go to the top <a href="#main">
-                        <i class="fa fa-chevron-up fa-2x" aria-hidden="true"></i>
-                    </a>
-
-                    </h2>
-                </div>
-            </div>
-        </div>
-        <!-- .container -->
     </footer>
-    <!-- .footer -->
+    <!-- /.footer -->
 
 
     <!-- Bootstrap core JavaScript
