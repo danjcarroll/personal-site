@@ -31,6 +31,20 @@ a:hover {
     color: white;
     text-decoration: none;
 }
+
+ul {
+    font-size: 1.25em;
+    font-weight: 200;
+    line-height: 1.5;
+}
+
+.job {
+    font-size: 1.25em;
+    font-weight: 200;
+    line-height: 2.0;
+    padding-bottom: 2.5%  
+}
+
 .lg-text {
     font-size: 1.5em;
     font-weight: 300;
@@ -101,7 +115,6 @@ a:hover {
 
 .button {
     padding: 15px;
-
     color: white;
     background: rgba(0,0,0,0.4);
     border: 1.5px solid white;
@@ -152,38 +165,6 @@ a:hover {
     border-top: 3px solid #e7e7e7;
 }
 
-.banner {
-    padding: 100px 0;
-    color: #f8f8f8;
-    /*background: url(../img/banner-bg.jpg) no-repeat center center;
-    background-size: cover;*/
-}
-
-.banner h2 {
-    margin: 0;
-    text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
-    /*font-size: 3vh;*/
-}
-
-.banner ul {
-    margin-bottom: 0;
-}
-
-.banner-social-buttons {
-    float: right;
-    margin-top: 0;
-}
-
-.icon-social {
-    color: grey;
-    transform: scale(2.0);
-    margin: 30px;
-}
-
-.icon-social:hover {
-    color: white;
-    transform: scale(2.5);
-}
 
 @media(max-width:1199px) {
     ul.banner-social-buttons {
@@ -210,27 +191,6 @@ a:hover {
     }
 }
 
-.bg-education{
-    text-align: center;
-    padding: 15px;
-    margin-bottom: 15px;
-}
-
-.bg-am {
-    background-color: #500000;
-}
-
-.bg-airforce{
-    background-color: #004F98;
-}
-
-.bg-codeup {
-    background-color: #7BA24B;
-}
-
-.bg-tbpe {
-    background-color: #3D89D5;
-}
 
 img:hover {
     opacity: 0.6;
@@ -251,38 +211,32 @@ div.transbox {
     border: 1px solid black;
 }
 
-
-.img-college {
-    width: 50%;
-    margin: auto;
-    /*margin-top: 15px;*/
-}
-
-.bueller-padding {
-    padding: 50vh;
-}
-
-.img-footer {
-    background: url(/img/FerrisBuellerClipped.jpg) no-repeat fixed center;
-    /*background-size: cover;*/
-}
+/*  -----  FOOTER STYLES  -----   */
 
 footer {
-    padding: 50px 0;
-    /*background-color: #f8f8f8;*/
-}
-.footer-message {
-    position: relative;
-    padding-top: 10%;
-    padding-bottom: 10%;
+    padding-top: 7.5%;
+    padding-bottom: 2.5%;
+    /*padding: 50px 0;*/
 }
 
-.footer-message > h3 {
+.footer-text {
+    color: white;
     margin: 0;
-    text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
-    font-size: 5em;
+    font-size: .75em;
 }
 
-p.copyright {
-    margin: 15px 0 0;
+.brand {
+    pading: 1% 0;
+    font-size: 2em;
+    color:  #e6e6e6;   
+}
+
+.icon-social {
+    transform: scale(2.0);
+    margin: 30px;
+}
+
+.icon-social:hover {
+    color: white;
+    transform: scale(2.5);
 }
