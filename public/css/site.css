@@ -10,16 +10,23 @@ html {
     height: 100%;
     background-color: #26262a;
 }
+body {
+    font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
+}
 
-body,
 h1,
 h2,
 h3,
 h4,
 h5,
 h6 {
-    font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
+    /*font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;*/
     font-weight: 700;
+}
+
+p {
+    /*font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;*/
+    font-weight: 300;
 }
 
 a {
@@ -32,18 +39,6 @@ a:hover {
     text-decoration: none;
 }
 
-ul.skills {
-    font-size: 1.25em;
-    font-weight: 200;
-    line-height: 1.5;
-}
-
-.job {
-    font-size: 1.25em;
-    font-weight: 200;
-    line-height: 2.0;
-    padding-bottom: 2.5%  
-}
 
 .lg-text {
     font-size: 1.5em;
@@ -98,16 +93,6 @@ ul.skills {
         font-size: 3em;
     }
 
-    ul.intro-social-buttons > li {
-        display: block;
-        margin-bottom: 20px;
-        padding: 0;
-    }
-
-    ul.intro-social-buttons > li:last-child {
-        margin-bottom: 0;
-    }
-
     .intro-divider {
         width: 100%;
     }
@@ -132,10 +117,6 @@ ul.skills {
 
 .img-index-bg {
     background: url(/img/index-bg-bw.jpg) no-repeat fixed center;
-    background-size: cover;
-}
-.img-resume-bg {
-    background: url(/img/resume-bg-bw.jpg) no-repeat fixed center;
     background-size: cover;
 }
 
@@ -167,32 +148,6 @@ ul.skills {
 }
 
 
-@media(max-width:1199px) {
-    ul.banner-social-buttons {
-        float: left;
-        margin-top: 15px;
-    }
-}
-
-@media(max-width:767px) {
-    .banner h2 {
-        margin: 0;
-        text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
-        font-size: 3em;
-    }
-
-    ul.banner-social-buttons > li {
-        display: block;
-        margin-bottom: 20px;
-        padding: 0;
-    }
-
-    ul.banner-social-buttons > li:last-child {
-        margin-bottom: 0;
-    }
-}
-
-
 img:hover {
     opacity: 0.6;
     filter: alpha(opacity=60); /* For IE8 and earlier */
@@ -204,6 +159,39 @@ div.transbox {
   opacity: 0.6;
   filter: alpha(opacity=60); /* For IE8 and earlier */
 }
+
+
+/*  -----  RESUME STYLES  -----   */
+
+.img-resume-bg {
+    background: url(/img/resume-bg-bw.jpg) no-repeat fixed center;
+    background-size: cover;
+}
+
+ul.skills {
+    font-size: 1.25em;
+    font-weight: 200;
+    line-height: 1.5;
+}
+
+.job {
+    font-size: 1.25em;
+    font-weight: 200;
+    line-height: 2.0;
+    padding-bottom: 2.5%  
+}
+
+.link-on-white {
+    color: grey;
+}
+
+.link-on-white:hover {
+    color: black;
+    /*font-weight: 300;*/
+    text-decoration: underline dotted;
+}
+
+
 
 /*  -----  PORTFOLIO STYLES  -----   */
 
@@ -220,11 +208,28 @@ div.transbox {
     border: 1px solid black;
 }
 
+.img-portfolio-bg {
+    background: url(/img/portfolio-bw.png) no-repeat fixed center;
+    background-size: cover;
+}
+
+/*  -----  CONTACT STYLES  -----   */
+
+.icon-spacer {
+    padding: .5vw;
+}
+
+.img-contact-bg {
+    background: url(/img/mailbox-bw.png) no-repeat fixed center;
+    background-size: cover;
+}
+
+
 /*  -----  FOOTER STYLES  -----   */
 
 footer {
     padding-top: 7.5%;
-    padding-bottom: 2.5%;
+    padding-bottom: 5%;
     /*padding: 50px 0;*/
 }
 
