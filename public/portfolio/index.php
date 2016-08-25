@@ -104,16 +104,26 @@
         <div class="container">
         	<a id="portfolio"></a>
             <div class="row">
-                <div class="col-xs-12 col-sm-4"><div class="box-portfolio">Weather Map</div></div>
-                <div class="col-xs-12 col-sm-4"><div class="box-portfolio">Simple Simon</div></div>
-                <div class="col-xs-12 col-sm-4"><div class="box-portfolio">Calculator</div></div>
+                <div class="col-xs-12 text-center"><h1>UNDER CONSTRUCTION</h1><div>
             </div>
- 
-<!--             <div class="row">
-                <div class="col-xs-12 col-sm-4"><div class="box-portfolio">4</div></div>
-                <div class="col-xs-12 col-sm-4"><div class="box-portfolio">5</div></div>
-                <div class="col-xs-12 col-sm-4"><div class="box-portfolio">6</div></div>
-            </div> -->
+            <div class="row">
+                <div class="col-xs-12 col-sm-4">
+                    <div><img src="/img/weather-vane-bw.png" alt="weather map" class="img-portfolio">
+                        <div>Weather Map</div>
+                    </div>
+                </div>
+                <div class="col-xs-12 col-sm-4">
+                    <div><img src="/img/simple-simon-bw.png" alt="simple simon" class="img-portfolio">
+                        <div>Simple Simon Game</div>
+                    </div>
+                </div>
+                <div class="col-xs-12 col-sm-4">
+                    <div><img src="/img/calculator-bw.png" alt="calculator" class="img-portfolio">
+                        <div>RPN Calculator</div>
+                    </div>
+                </div>
+                
+            </div>
         </div>
         <!-- /.container -->
     </div>
