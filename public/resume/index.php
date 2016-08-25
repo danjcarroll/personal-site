@@ -75,17 +75,19 @@
                 <div class="col-lg-12">
                     <div class="intro-message">
                         <h3>find out what I've accomplished over the years</h3>
-                        <h1>DIG A LITTLE DEEPER</h1>
+                        <h1>WORK E<span class="lg-text">X</span>PERIENCE</h1>
                         <hr class="intro-divider">
                     </div>
                 </div>
             </div>
-             <div class="row">
+             <!-- <div class="row">
                <div class="col-xs-12 content-section">
                     <div class="clearfix"></div>
-                    <button class="button">Download My Resume</button>
+                    <a href="www.djcarroll.me/resume/DjCarroll.pdf">
+                        <button class="button">Download My Resume</button>
+                    </a>
                 </div>
-            </div>
+            </div> -->
 
         </div>
         <!-- /.container -->
@@ -99,31 +101,35 @@
         <div class="container">
         	<a name="web-development"></a>
             <div class="row">
-                <div class="col-md-3 col-sm-12">
+                <div class="col-md-4 col-sm-12">
                     <div class="clearfix"></div>
                         <h2 class="section-heading">TECHNOLOGIES</h2>
                     </div>
 
-                <div class="col-md-4 col-md-offset-2 col-sm-12">
+                <div class="col-md-4 col-sm-12">
                 	
-                    <h3>WORKING KNOWLEDGE</h3>
-                    <p>replace with icons or images of all languages. make it two columns.</p>
+                    <h3>FUNCTIONAL KNOWLEDGE</h3>
+                    <p>Trained in full stack web development, coupled with 15 years of engineering design</p>
                     <ul>
                     	<li>HTML</li>
                     	<li>CSS</li>
                     	<li>JavaScript</li>
-                        <li>Git</li>
+                        <li>jQuery</li>
+                        <li>Version Control (Git)</li>
                         <li>Agile development</li>
+                        <li>Scrum Methodology</li>
+                        <li>Quality Control & Quality Assurance</li>
+                        <li>Scheduling & Budgeting</li>
                     </ul>
                 </div>
-                 <div class="col-md-3 col-sm-12">
+                 <div class="col-md-3 col-sm-12 pull-right">
                     
                     <h3>SOME EXPOSURE</h3>
-                    <p>replace with icons or images of all languages. make it two columns.</p>
+                    <p>Self taught languages.</p>
                     <ul>
                         <li>Python</li>
                         <li>C</li>
-                        <li>more</li>
+                        <li>XML</li>
                     </ul>
                 </div>
             </div>
@@ -144,42 +150,47 @@
                   <div class="col-md-8 col-sm-12">
                     <h4 >PROJECT ENGINEER • DESIGN TASK LEAD • PROJECT MANAGER</h4>
                     <h5>HNTB <small>2008 - 2016</small></h5>
-                 	<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                 	tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                 	quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                 	consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-                 	cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-                 	proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                 	<p class="job">Worked as a senior civil engineer designer and team leader on a wide
+                        variety of road and highway design projects. My focus was mainly on design,  
+                        small team leadership, and software environment functionality improvements. I 
+                        implemented the Scrum methodology for all of my design and plan production work.<br>
+                        I've worked on large (over $1.5B) and small (less than <$5M) projects and became
+                        intimately familiar with managing the design and integration of different components
+                        and systems so all parts worked together before we sent our projects out to bid.<br>
+                        In addition to design I was the project manager, responsible for staffing, budgeting, 
+                        and scheduling several construction oversight projects.</p>
 
                  	<h4>PROJECT ENGINEER • DESIGN TASK LEAD</h4>
                     <h5>CAMACHO-HERNANDEZ <small>2007 - 2008</small></h5>
                     <h5>JACOBS ENGINEERING <small>2005 - 2007</small></h5>
                     <h5>LOCKWOOD, ANDREWS & NEWNAM <small>2003 - 2005</small></h5>
-                 	<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                 	tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                 	quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                 	consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-                 	cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-                 	proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                 	<p class="job">As a mid-level engineer I was typically responsible for the design of
+                        one major roadway system (e.g. frontage roads, drainage, or construction phasing).
+                    This type of work required constant communication with other design teams to ensure 
+                    my component fit within the framework of the overall roadway design.</p>
 
                  	<h4>TRAFFIC ENGINEER</h4>
                     <h5>PAPE-DAWSON ENGINEERS <small>2001 - 2003</small></h5>
-                 	<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                 	tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                 	quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                 	consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-                 	cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-                 	proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                 	<p class="job">My work as a traffic engineer consisted of field studies and reports. I was
+                        responsible for establishing the study area , contracting data collection, analyzing
+                        traffic data using basic statistical methods, modeling traffic, and preparing reports on
+                        the findings. It was typical for me to meet with governmental representatives and owners
+                        to review and negotiate traffic mitigation measures for problems I found in my field studies.</p>
 
                  	<h4>USAF SPACE OPERATIONS OFFICER</h4>
                     <h5>2<sup>nd</sup> SPACE LAUNCH SQUADRON <small>1995 - 1997</small></h5>
                     <h5>8<sup>th</sup> MISSILE WARNING SQUADRON <small>1993 - 1995</small></h5>
-                 	<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                 	tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                 	quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                 	consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-                 	cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-                 	proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                 	<p class="job">Immediate high pressure responsibility for a newly commisioned officer. 
+                        My first job was to report submarine launched nuclear missile attacks to the National
+                         Command Authority, or as my commander was fond of saying, "You're two phone calls away 
+                         from the President and 8 minutes from thermonuclear war." As the Missile Warning Crew 
+                         Commander I led a small crew of three military personnel and was the site commander 
+                         in the absence of the Squadron commander, in charge of the contractor and security forces.<br>
+                         My second assignment landed me a beachfront office as a Launch Crew Commander for the Atlas V and 
+                         Delta IV rocket systems near Santa Barbara, California. I was given responsibility for 
+                         developing a new training program for the Atlas system as the Chief of Operations Training. Working
+                         with NASA and Air Force engineers I developed a program that was named "Best in Space Command" beating
+                         out all the launch squadrons at Cape Canaveral, Florida and our sister squadron in California.</p>
                 </div>
             </div>
         </div>
@@ -218,47 +229,48 @@
         <!-- /.container -->
     </div>
     <!-- /.content-section-a -->
- <!-- Banner -->
-    <div class="banner"><a  name="connections"></a>
+ 
+     <!-- footer -->
+    <footer class="footer"><a  id="connect"></a>
 
         <div class="container">
 
             <div class="row">
-                <div class="col-xs-12 text-center">
-                    <h2>DANIEL j CARROLL</h2>
+                <div class="col-xs-12 text-center brand">
+                    <h2>D<span class="lg-text">j</span>C</h2>
                 </div>
                 <nav class="col-xs-12 text-center">
-                    <a href="https://twitter.com/primalRambler" target="_blank"><i class="fa fa-twitter icon-social fa-fw"></i></a>
+                    <a href="https://twitter.com/carrollCodes" target="_blank"><i class="fa fa-twitter icon-social fa-fw"></i></a>
                     <a href="https://github.com/primalrambler" target="_blank"><i class="fa fa-github icon-social"></i></a>
                     <a href="http://linkedin.com/in/djcarroll-1993" target="_blank"><i class="fa fa-linkedin icon-social"></i></a>
+                    <a href="mailto:carroll.codes@gmail.com?Subject=Hello%20There" target="_top"><i class="fa fa-envelope-o icon-social"></i></a>
                 </nav>
+            </div>
             <div class="row">
                 <div class="col-xs-12 text-center">
                     <ul class="list-inline link-list">
                         <li>
                             <a href="/index.php">Home</a>
                         </li>
-                        <li class="footer-menu-divider">&sdot;</li>
+                        <li class="footer-text">&sdot;</li>
                         <li>
                             <a href="/resume/">Resume</a>
                         </li>
-                        <li class="footer-menu-divider">&sdot;</li>
+                        <li class="footer-text">&sdot;</li>
                         <li>
                             <a href="/portfolio">Portfolio</a>
                         </li>
-                        <li class="footer-menu-divider">&sdot;</li>
+                        <li class="footer-text">&sdot;</li>
                         <li>
                             <a href="/contact.html">Contact</a>
                         </li>
                     </ul>
                 </div>
             </div>
-            <div class="row bueller-padding"></div>
         </div>
         <!-- /.container -->
-
-    </div>
-    <!-- /.banner -->
+    </footer>
+    <!-- /.footer -->
 
 
 </html>
