@@ -9,7 +9,7 @@
     <meta name="description" content="resume web developer javascript php html css">
     <meta name="author" content="Daniel Carroll">
 
-    <title>DjC | Portfolio</title>
+    <title>DjC | Contact</title>
 
     <!-- Bootstrap core CSS -->
     <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
@@ -70,7 +70,7 @@
 
     <!-- Intro -->
     <a id="main"></a>
-    <div class="section-main img-resume-bg">
+    <div class="section-main img-contact-bg">
         <div class="container">
 
             <div class="row">
@@ -96,15 +96,24 @@
             <div class="row">
                 <div class="col-xs-12 col-sm-6">
                     <h2>Contact me today</h2>
+                    <p>Feel free to contact me via email or social media with any inquiries.</p>
                     <address>
-                        Dan Carroll<br>
-                        18807 Millhollow<br>
-                        San Antonio, Texas 78258<br>
-                        <telephone>210.843.6523</telephone><br>
-                        <a href="mailto:carroll.codes@gmail.com?Subject=Hello%20There" target="_top"><email>carroll.codes@gmail.com</email></a>  
+                        <p>Dan Carroll</p>
+                        <p>18807 Millhollow</p>
+                        <p>San Antonio, Texas 78258</p>
+                        <!-- <p><a href="tel:1-210-843-6523" class="link-on-white">210.843.6523</a></p> -->
+                        <a href="mailto:carroll.codes@gmail.com?Subject=Hello%20There" target="_top" class="link-on-white">
+                            <email>carroll.codes@gmail.com</email>
+                        </a>  
                     </address>
                 </div>
             </div>
+            <nav class="col-xs-12">
+                <a href="https://twitter.com/carrollCodes" target="_blank"><i class="fa fa-twitter fa-lg icon-spacer link-on-white"></i></a>
+                <a href="https://github.com/primalrambler" target="_blank"><i class="fa fa-github fa-lg icon-spacer link-on-white"></i></a>
+                <a href="http://linkedin.com/in/djcarroll-1993" target="_blank"><i class="fa fa-linkedin fa-lg icon-spacer link-on-white"></i></a>
+                <a href="mailto:carroll.codes@gmail.com?Subject=Hello%20There" target="_top"><i class="fa fa-envelope-o fa-lg icon-spacer link-on-white"></i></a>
+            </nav>
         </div>
         <!-- /.container -->
     </div>
