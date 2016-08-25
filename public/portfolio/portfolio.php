@@ -70,7 +70,7 @@
 
     <!-- Intro -->
     <a id="main"></a>
-    <div class="section-main img-resume-bg">
+    <div class="section-main img-portfolio-bg">
         <div class="container">
 
             <div class="row">
