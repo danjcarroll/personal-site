@@ -43,7 +43,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand topnav brand-text" href="/index.php">DjC</a>
+                <a class="navbar-brand topnav brand-text" href="#">DjC</a>
             </div>
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
@@ -54,7 +54,7 @@
                     <li>
                         <a href="/resume/resume.php">RESUME</a>
                     </li>
-                    <li class="btn-contact">
+                    <li>
                         <a href="/contact/contact.php">CONTACT</a>
                     </li>
                 </ul>
@@ -63,6 +63,7 @@
         </div>
         <!-- /.container -->
     </nav>
+    <!-- .Navigation -->
 
     <!-- Page Content -->
 
