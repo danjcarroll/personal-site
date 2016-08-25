@@ -91,7 +91,7 @@
                                     that your clients want. We're using the LAMP-J+ stack
                                     as the basis for our work, but I'm also taking the time
                                     to learn Python.</p>
-                    <a href="/portfolio" class="btn-link">
+                    <a href="/portfolio/portfolio.php" class="btn-link">
                         <button class="button">SEE MY WORK</button>
                     </a>
                 </div>
@@ -104,7 +104,7 @@
                                     methods in my design and production of projects large (>$1.5B)
                                     and small (<$5M). I've managed schedules, budgets and ran
                                     quality control programs for projects as well.</p>
-                    <a href="/resume" class="btn-link">
+                    <a href="/resume/resume.php" class="btn-link">
                         <button class="button">LEARN MORE</button>
                     </a>
                 </div>
