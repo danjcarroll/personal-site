@@ -32,7 +32,7 @@ a:hover {
     text-decoration: none;
 }
 
-ul {
+ul.skills {
     font-size: 1.25em;
     font-weight: 200;
     line-height: 1.5;
@@ -139,6 +139,7 @@ ul {
     background-size: cover;
 }
 
+
 .content-section-a {
     padding: 50px 0;
     background-color: #f8f8f8;
@@ -202,6 +203,14 @@ div.transbox {
   background-color: #ffffff;
   opacity: 0.6;
   filter: alpha(opacity=60); /* For IE8 and earlier */
+}
+
+/*  -----  PORTFOLIO STYLES  -----   */
+
+.img-portfolio {
+    height: 25vw;
+    width: 25vw;
+    margin: 2vw auto;
 }
 
 .box-portfolio{
