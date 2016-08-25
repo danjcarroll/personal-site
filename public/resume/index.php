@@ -110,7 +110,7 @@
                 	
                     <h3>FUNCTIONAL KNOWLEDGE</h3>
                     <p>Trained in full stack web development, coupled with 15 years of engineering design</p>
-                    <ul>
+                    <ul class="skills">
                     	<li>HTML</li>
                     	<li>CSS</li>
                     	<li>JavaScript</li>
@@ -126,7 +126,7 @@
                     
                     <h3>SOME EXPOSURE</h3>
                     <p>Self taught languages.</p>
-                    <ul>
+                    <ul class="skills">
                         <li>Python</li>
                         <li>C</li>
                         <li>XML</li>
