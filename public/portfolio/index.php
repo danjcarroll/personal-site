@@ -91,7 +91,8 @@
         	<a id="quote"></a>
             <div class="row">
                 <div class="col-sm-12 text-center">
-                	<h2 class="section-heading">Lorem ipsum dolor sit amet, consectetur adipisicing elit</h2>
+                	<h2 class="section heading"><em>I used to say that civil engineering was a lot like coding, but I had it bassakwards.<br>
+                        I was a coder working as a civil engineer...I fixed that.</em></h2>
                 </div>
             </div>
         </div>
@@ -108,56 +109,57 @@
                 <div class="col-xs-12 col-sm-4"><div class="box-portfolio">Calculator</div></div>
             </div>
  
-            <div class="row">
+<!--             <div class="row">
                 <div class="col-xs-12 col-sm-4"><div class="box-portfolio">4</div></div>
                 <div class="col-xs-12 col-sm-4"><div class="box-portfolio">5</div></div>
                 <div class="col-xs-12 col-sm-4"><div class="box-portfolio">6</div></div>
-            </div>
+            </div> -->
         </div>
         <!-- /.container -->
     </div>
     <!-- /.content-section-a -->
- <!-- Banner -->
-    <div class="banner"><a  name="connections"></a>
+ 
+      <!-- footer -->
+    <footer class="footer"><a  id="connect"></a>
 
         <div class="container">
 
             <div class="row">
-                <div class="col-xs-12 text-center">
-                    <h2>DANIEL<span class="lg-text">j</span>CARROLL</h2>
+                <div class="col-xs-12 text-center brand">
+                    <h2>D<span class="lg-text">j</span>C</h2>
                 </div>
                 <nav class="col-xs-12 text-center">
-                    <a href="https://twitter.com/primalRambler" target="_blank"><i class="fa fa-twitter icon-social fa-fw"></i></a>
+                    <a href="https://twitter.com/carrollCodes" target="_blank"><i class="fa fa-twitter icon-social fa-fw"></i></a>
                     <a href="https://github.com/primalrambler" target="_blank"><i class="fa fa-github icon-social"></i></a>
                     <a href="http://linkedin.com/in/djcarroll-1993" target="_blank"><i class="fa fa-linkedin icon-social"></i></a>
+                    <a href="mailto:carroll.codes@gmail.com?Subject=Hello%20There" target="_top"><i class="fa fa-envelope-o icon-social"></i></a>
                 </nav>
+            </div>
             <div class="row">
                 <div class="col-xs-12 text-center">
                     <ul class="list-inline link-list">
                         <li>
                             <a href="/index.php">Home</a>
                         </li>
-                        <li class="footer-menu-divider">&sdot;</li>
+                        <li class="footer-text">&sdot;</li>
                         <li>
                             <a href="/resume/">Resume</a>
                         </li>
-                        <li class="footer-menu-divider">&sdot;</li>
+                        <li class="footer-text">&sdot;</li>
                         <li>
                             <a href="/portfolio">Portfolio</a>
                         </li>
-                        <li class="footer-menu-divider">&sdot;</li>
+                        <li class="footer-text">&sdot;</li>
                         <li>
                             <a href="/contact.html">Contact</a>
                         </li>
                     </ul>
                 </div>
             </div>
-            <div class="row bueller-padding"></div>
         </div>
         <!-- /.container -->
-
-    </div>
-    <!-- /.banner -->
+    </footer>
+    <!-- /.footer -->
 
 
 </html>
