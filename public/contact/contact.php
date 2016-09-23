@@ -131,7 +131,7 @@
                 <nav class="col-xs-12 text-center">
                     <a href="https://twitter.com/carrollCodes" target="_blank"><i class="fa fa-twitter icon-social fa-fw"></i></a>
                     <a href="https://github.com/primalrambler" target="_blank"><i class="fa fa-github icon-social"></i></a>
-                    <a href="http://linkedin.com/in/djcarroll-1993" target="_blank"><i class="fa fa-linkedin icon-social"></i></a>
+                    <a href="http://linkedin.com/in/danjcarroll" target="_blank"><i class="fa fa-linkedin icon-social"></i></a>
                     <a href="mailto:carroll.codes@gmail.com?Subject=Hello%20There" target="_top"><i class="fa fa-envelope-o icon-social"></i></a>
                 </nav>
             </div>
