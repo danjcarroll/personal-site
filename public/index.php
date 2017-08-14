@@ -86,11 +86,11 @@
                     <div class="clearfix"></div>
                     <i class="fa fa-code fa-5x" aria-hidden="true"></i>
                     <h2 class="section-heading">web development</h2>
-                    <p class="lead">I'm training as a full stack developer at Codeup, 
+                    <p class="lead">I have trained as a full stack developer at Codeup, 
                                     learning how to create the websites and web apps 
-                                    that your clients want. We're using the LAMP-J+ stack
+                                    that your clients want. We used the LAMP-J+ stack
                                     as the basis for our work, but I'm also taking the time
-                                    to learn Python.</p>
+                                    to learn Java and Python.</p>
                     <a href="/portfolio/portfolio.php" class="btn-link">
                         <button class="button">SEE MY WORK</button>
                     </a>
@@ -108,6 +108,18 @@
                         <button class="button">LEARN MORE</button>
                     </a>
                 </div>
+                 <div class="col-md-5 col-lg-offset-2 col-xs-12 content-section">
+                     <div class="clearfix"></div>
+                     <i class="fa fa-linux fa-5x" aria-hidden="true"></i>
+                     <h2 class="section-heading">linux system admin</h2>
+                     <p class="lead">I have recently been Red Hat certifed as a
+                                    Linux System Administrator as part of my training
+                                    at Rackspace's Open Cloud Academy where I was trained
+                                    in Linux, Apache web servers and MySQL.</p>
+                     <a href="/resume/resume.php" class="btn-link">
+                         <button class="button">LEARN MORE</button>
+                     </a>
+                 </div>
             </div>
 
         </div>
