@@ -108,7 +108,7 @@
                         <button class="button">LEARN MORE</button>
                     </a>
                 </div>
-                 <div class="col-md-5 col-lg-offset-2 col-xs-12 content-section">
+                 <div class="col-md-5 col-md-offset-3 col-lg-offset-2 col-xs-12 content-section">
                      <div class="clearfix"></div>
                      <i class="fa fa-linux fa-5x" aria-hidden="true"></i>
                      <h2 class="section-heading">linux system admin</h2>
