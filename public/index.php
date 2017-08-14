@@ -72,7 +72,7 @@
         <div class="container">
 
             <div class="row">
-                <div class="col-lg-12 col-xs-10 col-xs-offset-1">
+                <div class="col-lg-12">
                     <div class="intro-message">
                         <h3>full stack web developer</h3>
                         <h1>DANIEL<span class="lg-text">j</span>CARROLL</h1>
@@ -82,7 +82,7 @@
                 </div>
             </div>
              <div class="row">
-               <div class="col-md-5 col-xs-10 col-xs-offset-1 content-section">
+               <div class="col-md-5 col-xs-12 content-section">
                     <div class="clearfix"></div>
                     <i class="fa fa-code fa-5x" aria-hidden="true"></i>
                     <h2 class="section-heading">web development</h2>
@@ -95,7 +95,7 @@
                         <button class="button">SEE MY WORK</button>
                     </a>
                 </div>
-                <div class="col-md-5 col-lg-offset-2 col-xs-10 col-xs-offset-1 content-section">
+                <div class="col-md-5 col-lg-offset-2 col-xs-12 content-section">
                     <div class="clearfix"></div>
                     <i class="fa fa-cogs fa-5x" aria-hidden="true"></i>
                     <h2 class="section-heading">engineering</h2>
@@ -108,7 +108,7 @@
                         <button class="button">LEARN MORE</button>
                     </a>
                 </div>
-                 <div class="col-md-5 col-md-offset-2 col-xs-10 col-xs-offset-1 content-section">
+                 <div class="col-md-5 col-md-offset-3 col-xs-12 content-section">
                      <div class="clearfix"></div>
                      <i class="fa fa-linux fa-5x" aria-hidden="true"></i>
                      <h2 class="section-heading">linux system admin</h2>
