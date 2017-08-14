@@ -72,7 +72,7 @@
         <div class="container">
 
             <div class="row">
-                <div class="col-lg-12">
+                <div class="col-lg-12 col-xs-10 col-xs-offset-1">
                     <div class="intro-message">
                         <h3>full stack web developer</h3>
                         <h1>DANIEL<span class="lg-text">j</span>CARROLL</h1>
