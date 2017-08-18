@@ -74,9 +74,9 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="intro-message">
-                        <h3>full stack web developer</h3>
+                        <h3>full stack web developer <span style="margin-left:20px; margin-right: 20px">•</span>  engineer</h3>
                         <h1>DANIEL<span class="lg-text">j</span>CARROLL</h1>
-                        <h3>engineer</h3>
+                        <h3>linux system admin</h3>
                         <hr class="intro-divider">
                     </div>
                 </div>
@@ -108,10 +108,10 @@
                         <button class="button">LEARN MORE</button>
                     </a>
                 </div>
-                 <div class="col-md-5 col-md-offset-3 col-xs-12 content-section">
+                <div class="col-md-5 col-md-offset-3 col-xs-12 content-section">
                      <div class="clearfix"></div>
                      <i class="fa fa-linux fa-5x" aria-hidden="true"></i>
-                     <h2 class="section-heading">linux system admin</h2>
+                     <h2 class="section-heading">linux system administrator</h2>
                      <p class="lead">I have recently been Red Hat certifed as a
                                     Linux System Administrator as part of my training
                                     at Rackspace's Open Cloud Academy where I was trained
@@ -121,6 +121,7 @@
                      </a>
                  </div>
             </div>
+            
 
         </div>
         <!-- /.container -->
