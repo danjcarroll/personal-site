@@ -81,14 +81,14 @@
                     </div>
                 </div>
             </div>
-             <!-- <div class="row">
+             <div class="row">
                <div class="col-xs-12 content-section">
                     <div class="clearfix"></div>
-                    <a href="www.djcarroll.me/resume/DjCarroll.pdf">
+                    <a href="/resume/DjCarroll.pdf" download="DjCarroll_resume.pdf">
                         <button class="button">Download My Resume</button>
                     </a>
                 </div>
-            </div> -->
+            </div>
 
         </div>
         <!-- /.container -->

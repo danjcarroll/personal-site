@@ -100,6 +100,26 @@ a:hover {
     }
 }
 
+//medium+ screen sizes
+@media (min-width:768px) {
+    .desktop-only {
+        display:block !important;
+    }
+}
+ 
+//small screen sizes
+@media (max-width: 767px) {
+    .mobile-only {
+        display:block !important;
+    }
+ 
+    .desktop-only {
+        display:none !important;
+    }
+}
+
+
+
 .button {
     padding: 15px;
     color: white;
@@ -194,13 +214,14 @@ ul.skills {
 }
 
 
-
 /*  -----  PORTFOLIO STYLES  -----   */
 
 .img-portfolio {
-    height: 25vw;
-    width: 25vw;
+    height: 20vw;
+    width: 20vw;
     margin: 2vw auto;
+    max-width: 350px;
+    max-height: 350px;
 }
 
 .box-portfolio{

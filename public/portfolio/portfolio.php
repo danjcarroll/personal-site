@@ -108,7 +108,8 @@
             <div class="row">
                 <div class="col-xs-12 col-sm-4">
                     <a target="_blank" href="https://whiskr.net" class="link-on-white"><img src="/img/whiskr_square.svg" alt="whisker" class="img-portfolio">
-                        <div>Whiskr.net</div>
+                        <h4>Whiskr.net</h4>
+                        <p>Internship opportunity at a travel deals startup.</p>
                     </a>
                 </div>
                 <div class="col-xs-12 col-sm-4">
@@ -120,8 +121,8 @@
                 <div class="col-xs-12 col-sm-4">
                     <a target="_blank" href="https://github.com/danjcarroll" class="link-on-white"><img src="/img/github.png" 
                         alt="github" class="img-portfolio">
-                        <h4>All the rest</h4>
-                        <p>Visit my Github account to see all my projects and classwork</p>
+                        <h4>All the rest...</h4>
+                        <p>Visit my Github account to see all my projects and classwork.</p>
                     </a>
                 </div> 
             </div>
