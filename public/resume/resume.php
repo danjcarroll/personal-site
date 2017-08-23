@@ -159,7 +159,7 @@
                   <div class="col-md-8 col-sm-12">
                     <h4 >WEB DEVELOPER - INTERNSHIP</h4>
                     <h5>WHISKR.NET <small>2016 - 2017</small></h5>
-                    <p class="job">Worked as a junior web developer at at travel deal start-up specializing
+                    <p class="job">Worked as a junior web developer at a travel deal start-up specializing
                     in finding airfare deals for worldwide destinations. I had the opportunity to work on 
                     a wide variety of project needs on the front-end and back-end. I updated and created MySQL database tables for city travelogues and developed interfaces for their content management
                     system with a Laravel framework and internal data entry pages. I also learned Vue.js to create email subscription services tied to the MailChimp API service. The most challenging part was coding a flight search page component with Vue.js that implemented RESTful API functionality for retrieving flight information and pricing.</p>
