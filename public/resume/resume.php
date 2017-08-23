@@ -110,12 +110,20 @@
                 <div class="col-md-4 col-sm-12">
                 	
                     <h3>FUNCTIONAL KNOWLEDGE</h3>
-                    <p>Trained in full stack web development, coupled with 15 years of engineering design</p>
+                    <p>Trained in full stack web development and Linux System Admin, coupled with 15 years of engineering design and management</p>
                     <ul class="skills">
-                    	<li>HTML</li>
+                    	<li>HTML5</li>
                     	<li>CSS</li>
                     	<li>JavaScript</li>
+                        <li>MySQL</li>
+                        <li>PHP</li>
+                        <li>Linux</li>
+                        <li>Apache</li>
                         <li>jQuery</li>
+                        <li>Laravel</li>
+                        <li>Vue.js</li>
+                        <li>Twitter Bootstrap</li>
+                        <li>JSON</li>
                         <li>Version Control (Git)</li>
                         <li>Agile development</li>
                         <li>Scrum Methodology</li>
@@ -129,7 +137,7 @@
                     <p>Self taught languages.</p>
                     <ul class="skills">
                         <li>Python</li>
-                        <li>C</li>
+                        <li>Java</li>
                         <li>XML</li>
                     </ul>
                 </div>
@@ -149,6 +157,13 @@
                 	<h2 class="section-heading">WORK EXPERIENCE</h2>
                 </div>
                   <div class="col-md-8 col-sm-12">
+                    <h4 >WEB DEVELOPER - INTERNSHIP</h4>
+                    <h5>WHISKR.NET <small>2016 - 2017</small></h5>
+                    <p class="job">Worked as a junior web developer at at travel deal start-up specializing
+                    in finding airfare deals for worldwide destinations. I had the opportunity to work on 
+                    a wide variety of project needs on the front-end and back-end. I updated and created MySQL database tables for city travelogues and developed interfaces for their content management
+                    system with a Laravel framework and internal data entry pages. I also learned Vue.js to create email subscription services tied to the MailChimp API service. The most challenging part was coding a flight search page component with Vue.js that implemented RESTful API functionality for retrieving flight information and pricing.</p>
+
                     <h4 >PROJECT ENGINEER • DESIGN TASK LEAD • PROJECT MANAGER</h4>
                     <h5>HNTB <small>2008 - 2016</small></h5>
                  	<p class="job">Worked as a senior civil engineer designer and team leader on a wide
@@ -192,6 +207,7 @@
                          developing a new training program for the Atlas system as the Chief of Operations Training. Working
                          with NASA and Air Force engineers I developed a program that was named "Best in Space Command" beating
                          out all the launch squadrons at Cape Canaveral, Florida and our sister squadron in California.</p>
+                         <p><small>Geek Cred Alert: I was part of the launch team for the Pegasus rocket that put Gene Rodenberry's ashes into space.</small></p>
                 </div>
             </div>
         </div>
@@ -204,13 +220,17 @@
         	<a id="education"></a>
             <div class="row">
                 <div class="col-md-4 col-sm-12">
-                    <h2 class="section-heading">EDUCATION</h2>
+                    <h2 class="section-heading">EDUCATION </h2>
+                    <h2 class="section-heading">CERTIFICATIONS</h2>
                 </div>
-                <div class="col-md-8 col-sm-12">
+                <div class="col-md-5 col-sm-12">
+                    <h4>LINUX SYSTEM ADMINISTRATOR</h4>
+                    <h5>Rackspace Open Cloud Academy, San Antonio, TX <small>2017</small></h5>
+                    <br>
                     <h4>FULL STACK WEB DEVELOPER</h4>
                     <h5>Codeup, San Antonio, TX <small>2016</small></h5>
                     <br>
-                    <h4>MASTERS OF ENGINEERING • CIVIL ENGINEERING</h4>
+                    <h4>MASTER OF ENGINEERING • CIVIL ENGINEERING</h4>
                     <h5>Texas A&M University, College Station, TX <small>2000</small></h5>
                     <br>
                     <h4>BACHELOR OF SCIENCE • CIVIL ENGINEERING</h4>
@@ -219,9 +239,15 @@
                     <h4>BACHELOR OF SCIENCE • GENERAL ACADEMICS</h4>
                     <h5>United States Air Force Academy, Colorado Springs, CO <small>1993</small></h5>
                     <br>
-
                 </div>
-
+                <div class="col-md-3 col-sm-12">
+                    <h4>Red Hat Certified <br>
+                        System Administrator</h4>
+                    <h5>117-111-850</h5>
+                    <br>
+                    <h4>Professional Engineer (Texas)</h4>
+                    <h5>95615</h5>
+                </div>
             </div>
 
 			
