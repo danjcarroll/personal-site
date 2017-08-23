@@ -93,7 +93,7 @@
         	<a id="quote"></a>
             <div class="row">
                 <div class="col-sm-12 text-center">
-                	<h2 class="section heading"><em>I used to say that civil engineering was a lot like coding, but I had it bassakwards.<br>
+                	<h2 class="section heading"><em>I used to think that working as a civil engineer was a lot like being a coder, <br>but I had it bassakwards.<br>
                         I was a coder working as a civil engineer...I fixed that.</em></h2>
                 </div>
             </div>
@@ -106,25 +106,24 @@
         <div class="container">
         	<a id="portfolio"></a>
             <div class="row">
-                <div class="col-xs-12 text-center"><h1>UNDER CONSTRUCTION</h1></div>
-            </div>
-            <div class="row">
                 <div class="col-xs-12 col-sm-4">
-                    <div><img src="/img/weather-vane-bw.png" alt="weather map" class="img-portfolio">
-                        <div>Weather Map</div>
-                    </div>
+                    <a target="_blank" href="https://whiskr.net" class="link-on-white"><img src="/img/whiskr_square.svg" alt="whisker" class="img-portfolio">
+                        <div>Whiskr.net</div>
+                    </a>
                 </div>
                 <div class="col-xs-12 col-sm-4">
-                    <div><img src="/img/simple-simon-bw.png" alt="simple simon" class="img-portfolio">
-                        <div>Simple Simon Game</div>
-                    </div>
+                    <a target="_blank" href="http://skillet-ninja.com" class="link-on-white"><img src="/img/skillet-ninja-head-pan.png" alt="skillet-ninja" class="img-portfolio">
+                        <h4>Skillet-Ninja.com</h4>
+                        <p>Codeup capstone project.</p>
+                    </a>
                 </div>
                 <div class="col-xs-12 col-sm-4">
-                    <div><img src="/img/calculator-bw.png" alt="calculator" class="img-portfolio">
-                        <div>RPN Calculator</div>
-                    </div>
-                </div>
-                
+                    <a target="_blank" href="https://github.com/danjcarroll" class="link-on-white"><img src="/img/github.png" 
+                        alt="github" class="img-portfolio">
+                        <h4>All the rest</h4>
+                        <p>Visit my Github account to see all my projects and classwork</p>
+                    </a>
+                </div> 
             </div>
         </div>
         <!-- /.container -->
