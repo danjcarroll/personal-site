@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-.DS_STORE
-.vagrant
-=======
 /vendor
 /node_modules
 Homestead.yaml
@@ -9,4 +5,5 @@ Homestead.json
 .env
 .DS_Store
 /.idea
->>>>>>> 6c021414695c068f46a1d69eff591b920c5411d3
+/.vagrant
+
