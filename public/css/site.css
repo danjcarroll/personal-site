@@ -1,0 +1,279 @@
+/*!
+ * Start Bootstrap - Landing Page Bootstrap Theme (http://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */
+
+body,
+html {
+    width: 100%;
+    height: 100%;
+    background-color: #26262a;
+}
+body {
+    font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    /*font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;*/
+    font-weight: 700;
+}
+
+p {
+    /*font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;*/
+    font-weight: 300;
+}
+
+a {
+    color:grey;
+    font-weight: 200;
+}
+
+a:hover {
+    color: white;
+    text-decoration: none;
+}
+
+
+
+
+.lg-text {
+    font-size: 1.5em;
+    font-weight: 300;
+}
+.topnav {
+    font-size: 14px;
+}
+
+.lead {
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.section-main {
+    padding-top: 50px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
+    padding-bottom: 50px;
+    text-align: center;
+    color: #f8f8f8;
+    /*background: url(/img/index-bg.jpg) no-repeat fixed center;
+    background-size: cover;*/
+}
+
+.intro-message {
+    position: relative;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+.intro-message > h1 {
+    margin: 0;
+    text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
+    font-size: 5em;
+}
+
+.intro-divider {
+    width: 400px;
+    border-top: 1px solid #f8f8f8;
+    border-bottom: 1px solid rgba(0,0,0,0.2);
+}
+
+.intro-message > h3 {
+    text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
+}
+
+@media(max-width:767px) {
+    .intro-message {
+        padding-bottom: 15%;
+    }
+
+    .intro-message > h1 {
+        font-size: 3em;
+    }
+
+    .intro-divider {
+        width: 100%;
+    }
+}
+
+//medium+ screen sizes
+@media (min-width:768px) {
+    .desktop-only {
+        display:block !important;
+    }
+}
+ 
+//small screen sizes
+@media (max-width: 767px) {
+    .mobile-only {
+        display:block !important;
+    }
+ 
+    .desktop-only {
+        display:none !important;
+    }
+}
+
+
+
+.button {
+    padding: 15px;
+    color: white;
+    background: rgba(0,0,0,0.4);
+    border: 1.5px solid white;
+    font-size: 1.25em;
+    text-transform: uppercase;
+}
+
+.button:hover {
+    background-color: white;
+    color: black;
+}
+.brand-text{
+    font-size: 20px
+}
+
+.img-index-bg {
+    background: url(/img/index-bg-bw.jpg) no-repeat fixed center;
+    background-size: cover;
+}
+
+
+.content-section-a {
+    padding: 50px 0;
+    background-color: #f8f8f8;
+}
+
+.content-section-b {
+    padding: 30px 0;
+    border-top: 1px solid #e7e7e7;
+    border-bottom: 1px solid #e7e7e7;
+    background-color: #e7e7e7;
+}
+
+.content-section {
+    padding: 7.5% 0 15% 0;
+}
+
+.section-heading {
+    margin-bottom: 30px;
+}
+
+.section-heading-spacer {
+    float: left;
+    width: 200px;
+    border-top: 3px solid #e7e7e7;
+}
+
+
+img:hover {
+    opacity: 0.6;
+    filter: alpha(opacity=60); /* For IE8 and earlier */
+}
+
+div.transbox {
+  /*margin: 30px;*/
+  background-color: #ffffff;
+  opacity: 0.6;
+  filter: alpha(opacity=60); /* For IE8 and earlier */
+}
+
+
+/*  -----  RESUME STYLES  -----   */
+
+.img-resume-bg {
+    background: url(/img/resume-bg-bw.jpg) no-repeat fixed center;
+    background-size: cover;
+}
+
+ul.skills {
+    font-size: 1.25em;
+    font-weight: 200;
+    line-height: 1.5;
+}
+
+.job {
+    font-size: 1.25em;
+    font-weight: 200;
+    line-height: 2.0;
+    padding-bottom: 2.5%  
+}
+
+.link-on-white {
+    color: grey;
+}
+
+.link-on-white:hover {
+    color: black;
+    /*font-weight: 300;*/
+    text-decoration: underline dotted;
+}
+
+
+/*  -----  PORTFOLIO STYLES  -----   */
+
+.img-portfolio {
+    height: 20vw;
+    width: 20vw;
+    margin: 2vw auto;
+    max-width: 350px;
+    max-height: 350px;
+}
+
+.box-portfolio{
+    height: 25vw;
+    width: 25vw;
+    margin: 2vw auto;
+    border: 1px solid black;
+}
+
+.img-portfolio-bg {
+    background: url(/img/portfolio-bw.png) no-repeat fixed center;
+    background-size: cover;
+}
+
+/*  -----  CONTACT STYLES  -----   */
+
+.icon-spacer {
+    padding: .5vw;
+}
+
+.img-contact-bg {
+    background: url(/img/mailbox-bw.png) no-repeat fixed center;
+    background-size: cover;
+}
+
+
+/*  -----  FOOTER STYLES  -----   */
+
+footer {
+    padding-top: 7.5%;
+    padding-bottom: 5%;
+    /*padding: 50px 0;*/
+}
+
+.footer-text {
+    color: white;
+    margin: 0;
+    font-size: .75em;
+}
+
+.brand {
+    pading: 1% 0;
+    font-size: 2em;
+    color:  #e6e6e6;   
+}
+
+.icon-social {
+    transform: scale(2.0);
+    margin: 30px;
+}
+
+.icon-social:hover {
+    color: white;
+    transform: scale(2.5);
+}
