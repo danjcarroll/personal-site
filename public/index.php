@@ -76,6 +76,7 @@
                     <div class="intro-message">
                         <h3>civil engineer</h3>
                         <h1>DANIEL<span class="lg-text">j</span>CARROLL</h1>
+                        <br>
                         <h3>software developer</h3>
                         <hr class="intro-divider">
                     </div>
@@ -86,11 +87,8 @@
                     <div class="clearfix"></div>
                     <i class="fa fa-cogs fa-5x" aria-hidden="true"></i>
                     <h2 class="section-heading">engineering</h2>
-                    <p class="lead">Fifteen years of engineering habits and instincts all
-                                    for the price of a junior web developer! I've used Agile
-                                    methods in my design and production of projects large (>$1.5B)
-                                    and small (<$5M). I've managed schedules, budgets and ran
-                                    quality control programs for projects as well.</p>
+                    <p class="lead">Fifteen years of civil engineering design and management...
+                    </p>
                     <a href="/resume/resume.php" class="btn-link">
                         <button class="button">LEARN MORE</button>
                     </a>
