@@ -74,28 +74,15 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="intro-message">
-                        <h3>full stack web developer</h3>
+                        <h3>civil engineer</h3>
                         <h1>DANIEL<span class="lg-text">j</span>CARROLL</h1>
-                        <h3>engineer</h3>
+                        <h3>software developer</h3>
                         <hr class="intro-divider">
                     </div>
                 </div>
             </div>
-             <div class="row">
-               <div class="col-md-5 col-xs-12 content-section">
-                    <div class="clearfix"></div>
-                    <i class="fa fa-code fa-5x" aria-hidden="true"></i>
-                    <h2 class="section-heading">web development</h2>
-                    <p class="lead">I have trained as a full stack developer at Codeup, 
-                                    learning how to create the websites and web apps 
-                                    that your clients want. We used the LAMP-J+ stack
-                                    as the basis for our work, but I'm also taking the time
-                                    to learn Java and Python.</p>
-                    <a href="/portfolio/portfolio.php" class="btn-link">
-                        <button class="button">SEE MY WORK</button>
-                    </a>
-                </div>
-                <div class="col-md-5 col-lg-offset-2 col-xs-12 content-section">
+            <div class="row">
+                <div class="col-md-6 col-md-offset-3 col-xs-12 content-section">
                     <div class="clearfix"></div>
                     <i class="fa fa-cogs fa-5x" aria-hidden="true"></i>
                     <h2 class="section-heading">engineering</h2>
@@ -108,18 +95,31 @@
                         <button class="button">LEARN MORE</button>
                     </a>
                 </div>
-                 <div class="col-md-5 col-md-offset-3 col-xs-12 content-section">
+                <div class="col-md-5 col-xs-12 content-section">
+                    <div class="clearfix"></div>
+                    <i class="fa fa-code fa-5x" aria-hidden="true"></i>
+                    <h2 class="section-heading">software development</h2>
+                    <p class="lead">I have trained as a full stack developer at Codeup, 
+                                    learning how to create the websites and web apps 
+                                    that your clients want. We used the LAMP-J+ stack
+                                    as the basis for our work, but I'm also taking the time
+                                    to learn C++ and Python.</p>
+                    <a href="/portfolio/portfolio.php" class="btn-link">
+                        <button class="button">SEE MY WORK</button>
+                    </a>
+                </div>
+                <div class="col-md-5 col-lg-offset-2 col-xs-12 content-section">
                      <div class="clearfix"></div>
                      <i class="fa fa-linux fa-5x" aria-hidden="true"></i>
                      <h2 class="section-heading">linux system admin</h2>
-                     <p class="lead">I have recently been Red Hat certifed as a
-                                    Linux System Administrator as part of my training
-                                    at Rackspace's Open Cloud Academy where I was trained
-                                    in Linux, Apache web servers and MySQL.</p>
+                     <p class="lead">I have been Red Hat certifed as a Linux
+                                    System Administrator as part of my training
+                                    at Rackspace's Open Cloud Academy where I was
+                                    trained in Linux, Apache web servers and MySQL.</p>
                      <a href="/resume/resume.php" class="btn-link">
                          <button class="button">LEARN MORE</button>
                      </a>
-                 </div>
+                </div>
             </div>
 
         </div>
@@ -127,49 +127,9 @@
 
     </div>
     <!-- /.main -->
+
+    <?php include 'footer.php';?>
      
-     <!-- footer -->
-    <footer class="footer"><a  id="connect"></a>
-
-        <div class="container">
-
-            <div class="row">
-                <div class="col-xs-12 text-center brand">
-                    <h2>D<span class="lg-text">j</span>C</h2>
-                </div>
-                <nav class="col-xs-12 text-center">
-                    <a href="https://twitter.com/carrollCodes" target="_blank"><i class="fa fa-twitter icon-social fa-fw"></i></a>
-                    <a href="https://github.com/primalrambler" target="_blank"><i class="fa fa-github icon-social"></i></a>
-                    <a href="http://linkedin.com/in/danjcarroll" target="_blank"><i class="fa fa-linkedin icon-social"></i></a>
-                    <a href="mailto:carroll.codes@gmail.com?Subject=Hello%20There" target="_top"><i class="fa fa-envelope-o icon-social"></i></a>
-                </nav>
-            </div>
-            <div class="row">
-                <div class="col-xs-12 text-center">
-                    <ul class="list-inline link-list">
-                        <li>
-                            <a href="/index.php">Home</a>
-                        </li>
-                        <li class="footer-text">&sdot;</li>
-                        <li>
-                            <a href="/resume/resume.php">Resume</a>
-                        </li>
-                        <li class="footer-text">&sdot;</li>
-                        <li>
-                            <a href="/portfolio/portfolio.php">Portfolio</a>
-                        </li>
-                        <li class="footer-text">&sdot;</li>
-                        <li>
-                            <a href="/contact/contact.php">Contact</a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-        <!-- /.container -->
-    </footer>
-    <!-- /.footer -->
-
 
     <!-- Bootstrap core JavaScript
         ================================================== -->

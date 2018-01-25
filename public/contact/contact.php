@@ -97,63 +97,23 @@
                 <div class="col-xs-12 col-sm-6">
                     <h2>Contact me today</h2>
                     <p>Feel free to contact me via email or LinkedIn with any inquiries.</p>
-                    <a href="mailto:carroll.codes@gmail.com?Subject=Hello%20There" target="_top" class="link-on-white">
-                        <email>carroll.codes@gmail.com</email>
+                    <a href="mailto:dcarroll.movil@gmail.com?Subject=Hello%20There" target="_top" class="link-on-white">
+                        <email>dcarroll.movil@gmail.com</email>
                     </a>
                 </div>
             </div>
             <nav class="col-xs-12">
-                <!-- <a href="https://twitter.com/carrollCodes" target="_blank"><i class="fa fa-twitter fa-lg icon-spacer link-on-white"></i></a> -->
-                <!-- <a href="https://github.com/primalrambler" target="_blank"><i class="fa fa-github fa-lg icon-spacer link-on-white"></i></a> -->
-                <a href="mailto:carroll.codes@gmail.com?Subject=Hello%20There" target="_top"><i class="fa fa-envelope-o fa-lg icon-spacer link-on-white"></i></a>
-                <a href="http://linkedin.com/in/djcarroll-1993" target="_blank"><i class="fa fa-linkedin fa-lg icon-spacer link-on-white"></i></a>
+                <a href="https://twitter.com/djcPE" target="_blank"><i class="fa fa-twitter fa-lg icon-spacer link-on-white"></i></a>
+                <a href="https://github.com/danjcarroll" target="_blank"><i class="fa fa-github fa-lg icon-spacer link-on-white"></i></a>
+                <a href="mailto:dcarroll.movil@gmail.com?Subject=Hello%20There" target="_top"><i class="fa fa-envelope-o fa-lg icon-spacer link-on-white"></i></a>
+                <a href="http://linkedin.com/in/danjcarroll" target="_blank"><i class="fa fa-linkedin fa-lg icon-spacer link-on-white"></i></a>
             </nav>
         </div>
         <!-- /.container -->
     </div>
     <!-- /.content-section-a -->
  
-      <!-- footer -->
-    <footer class="footer"><a  id="connect"></a>
-
-        <div class="container">
-
-            <div class="row">
-                <div class="col-xs-12 text-center brand">
-                    <h2>D<span class="lg-text">j</span>C</h2>
-                </div>
-                <nav class="col-xs-12 text-center">
-                    <a href="https://twitter.com/carrollCodes" target="_blank"><i class="fa fa-twitter icon-social fa-fw"></i></a>
-                    <a href="https://github.com/primalrambler" target="_blank"><i class="fa fa-github icon-social"></i></a>
-                    <a href="http://linkedin.com/in/danjcarroll" target="_blank"><i class="fa fa-linkedin icon-social"></i></a>
-                    <a href="mailto:carroll.codes@gmail.com?Subject=Hello%20There" target="_top"><i class="fa fa-envelope-o icon-social"></i></a>
-                </nav>
-            </div>
-            <div class="row">
-                <div class="col-xs-12 text-center">
-                    <ul class="list-inline link-list">
-                        <li>
-                            <a href="/index.php">Home</a>
-                        </li>
-                        <li class="footer-text">&sdot;</li>
-                        <li>
-                            <a href="/resume/resume.php">Resume</a>
-                        </li>
-                        <li class="footer-text">&sdot;</li>
-                        <li>
-                            <a href="/portfolio/portfolio.php">Portfolio</a>
-                        </li>
-                        <li class="footer-text">&sdot;</li>
-                        <li>
-                            <a href="/contact/contact.php">Contact</a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-        <!-- /.container -->
-    </footer>
-    <!-- /.footer -->
+    <?php include '../footer.php';?>
      
     <!-- Bootstrap core JavaScript
         ================================================== -->
