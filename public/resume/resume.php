@@ -6,7 +6,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="resume web developer javascript php html css">
+    <meta name="description" content="resume civil engineer software developer javascript php html css">
     <meta name="author" content="Daniel Carroll">
 
     <title>DjC | Resume</title>
@@ -96,7 +96,59 @@
     </div>
     <!-- /.intro -->
 
+    <div class="content-section-b">
+        <div class="container">
+            <a name="civil-engineer"></a>
+            <div class="row">
+                <div class="col-md-4 col-sm-12">
+                    <div class="clearfix"></div>
+                        <h2 class="section-heading">CIVIL ENGINEERING</h2>
+                        <p>15 years of engineering design and analyis coupled with leadership and management training and expertise</p>
+                    </div>
 
+                <div class="col-md-4 col-sm-12">
+                    
+                    <h3>EXPERTISE</h3>                    
+                    <ul class="skills">
+                        <li>Road</li>
+                        <li>Highway</li>
+                        <li>Roundabouts</li>
+                        <li>Multi-Level Interchanges</li>
+                        <li>Signal</li>
+                        <li>Land Development</li>
+                        <li>Hydraulic</li>
+                        <li>Hydrologic</li>
+                        <li>Traffic Engineering</li>
+                        <li>Traffic Impact Analyses</li>
+                        <li>Traffic Signal Timing</li>
+                        <li>Environmental Permitting</li>
+                        <li>Cost Estimation
+                        <li>Quality Control & Quality Assurance</li>
+                        <li>Scheduling & Budgeting</li>
+                        <li>Agile development</li>
+                        <li>Scrum Methodology</li>
+                        <li>Project Management</li>
+                    </ul>
+                </div>
+                 <div class="col-md-3 col-md-offset-1 col-sm-12">
+                    
+                    <h3>TECHNOLOGIES</h3>
+                    <ul class="skills">
+                        <li>MicroStation</li>
+                        <li>ProjectWise</li>
+                        <li>InRoads</li>
+                        <li>Geopak</li>
+                        <li>Synchro</li>
+                        <li>HCS</li>
+                        <li>TRANSYT-7F</li>
+                        <li>TSIS-CORSIM</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <!-- /.container -->
+    </div>
+    <!-- /.content-section-b -->
 
     <div class="content-section-a">
         <div class="container">
@@ -104,19 +156,20 @@
             <div class="row">
                 <div class="col-md-4 col-sm-12">
                     <div class="clearfix"></div>
-                        <h2 class="section-heading">TECHNOLOGIES</h2>
+                        <h2 class="section-heading">SOFTWARE DEVELOPMENT</h2>
+                        <p>Trained in full stack web development and Linux System Administration.</p>
                     </div>
 
                 <div class="col-md-4 col-sm-12">
                 	
-                    <h3>FUNCTIONAL KNOWLEDGE</h3>
-                    <p>Trained in full stack web development and Linux System Admin, coupled with 15 years of engineering design and management</p>
+                    <h3>TECHNOLOGIES</h3>
+                    
                     <ul class="skills">
+                        <li>PHP</li>
+                        <li>MySQL</li>
                     	<li>HTML5</li>
                     	<li>CSS</li>
                     	<li>JavaScript</li>
-                        <li>MySQL</li>
-                        <li>PHP</li>
                         <li>Linux</li>
                         <li>Apache</li>
                         <li>jQuery</li>
@@ -124,11 +177,7 @@
                         <li>Vue.js</li>
                         <li>Twitter Bootstrap</li>
                         <li>JSON</li>
-                        <li>Version Control (Git)</li>
-                        <li>Agile development</li>
-                        <li>Scrum Methodology</li>
-                        <li>Quality Control & Quality Assurance</li>
-                        <li>Scheduling & Budgeting</li>
+                        <li>Version Control (Git and Mercurial)</li>
                     </ul>
                 </div>
                  <div class="col-md-3 col-md-offset-1 col-sm-12">
@@ -137,7 +186,7 @@
                     <p>Self taught languages.</p>
                     <ul class="skills">
                         <li>Python</li>
-                        <li>Java</li>
+                        <li>C</li>
                         <li>XML</li>
                     </ul>
                 </div>
@@ -157,6 +206,15 @@
                 	<h2 class="section-heading">WORK EXPERIENCE</h2>
                 </div>
                   <div class="col-md-8 col-sm-12">
+                    <h4>SOFTWARE ENGINEER</h4>
+                    <h5>PIC BUSINESS <small>2017 - CURRENT</small></h5>
+                    <p class="job">My software development talents have been brought to bear on
+                    updating enterprise resource planning software for the window coverings, 
+                    apparel and promotional products industry. I have contributed to refactoring
+                    the code base from procedural PHP to object oriented PHP on a web-based ERP system.
+                    I am also working on converting a new client's database information so that it
+                    is compatible with our databases.</p>
+
                     <h4 >WEB DEVELOPER - INTERNSHIP</h4>
                     <h5>WHISKR.NET <small>2016 - 2017</small></h5>
                     <p class="job">Worked as a junior web developer at a travel deal start-up specializing
@@ -241,9 +299,7 @@
                     <h5>Codeup, San Antonio, TX <small>2016</small></h5>
                     <br>
                 </div>
-                <div class="col-md-3 col-sm-12">
-                    
-                    
+                <div class="col-md-3 col-sm-12">                    
                     <h4>Professional Engineer (Texas)</h4>
                     <h5>95615</h5>
                     <br>
@@ -252,9 +308,33 @@
                     <h5>117-111-850</h5>
                 </div>
             </div>
+        </div>
+        <!-- /.container -->
+    </div>
+    <!-- /.content-section-a -->
 
-			
-            
+    <div class="content-section-b">
+        <div class="container">
+            <a id="txdot-cert"></a>
+            <div class="row">
+                <div class="col-md-4 col-sm-12">
+                    <h2 class="section-heading">TxDOT</h2>
+                    <h2 class="section-heading">PRE-CERTIFICATIONS</h2>
+                </div>
+                <div class="col-md-8 col-sm-12">
+                    <h4>3.1.1   Route Studies & Schematic Design - Minor Roadways</h4>
+                    <h4>3.2.1   Route Studies & Schematic Design - Major Roadways</h4>
+                    <h4>3.4.1   Minor Bridge Layouts</h4>
+                    <h4>4.1.1   Minor Roadway Design</h4>
+                    <h4>4.2.1   Major Roadway Design</h4>
+                    <h4>7.1.1   Traffic Engineering Studies</h4>
+                    <h4>7.3.1   Traffic Signal Timing</h4>
+                    <h4>8.1.1   Signing, Pavement Marking And Channelization</h4>
+                    <h4>8.3.1   Signalization</h4>
+                    <h4>10.1.1  Hydrologic Studies</h4>
+                    <h4>10.2.1  Basic Hydraulic Design</h4>
+                </div>
+            </div>
         </div>
         <!-- /.container -->
     </div>

@@ -87,8 +87,13 @@
                     <div class="clearfix"></div>
                     <i class="fa fa-cogs fa-5x" aria-hidden="true"></i>
                     <h2 class="section-heading">engineering</h2>
-                    <p class="lead">Fifteen years of civil engineering design and management...
-                    </p>
+                    <p class="lead">I'm a senior civil engineer who has designed everything
+                        from a two-lane park road to a five-level interchange.
+                        My primary expertise is in road and highway engineering
+                        and related fields like drainage, traffic control plans,
+                        and signing and striping design. I'm also a traffic engineer
+                        who has done numerous (>70) traffic impact analyses, arterial
+                        signal timing plans, and corridor studies.                    </p>
                     <a href="/resume/resume.php" class="btn-link">
                         <button class="button">LEARN MORE</button>
                     </a>
@@ -97,11 +102,12 @@
                     <div class="clearfix"></div>
                     <i class="fa fa-code fa-5x" aria-hidden="true"></i>
                     <h2 class="section-heading">software development</h2>
-                    <p class="lead">I have trained as a full stack developer at Codeup, 
-                                    learning how to create the websites and web apps 
-                                    that your clients want. We used the LAMP-J+ stack
-                                    as the basis for our work, but I'm also taking the time
-                                    to learn C++ and Python.</p>
+                    <p class="lead">During a sabatical from civil engineering I trained at Codeup<link>
+                        as a full stack web developer. Those skills now enable me to 
+                        create web based solutions for civil engineers. Creating software as a service (SaaS) 
+                        for the engineering design teams, will provide them access to a fully quality controlled tools
+                        where continual improvements or corrections can be immediately distributed
+                        to every project and team.</p>
                     <a href="/portfolio/portfolio.php" class="btn-link">
                         <button class="button">SEE MY WORK</button>
                     </a>
@@ -110,10 +116,11 @@
                      <div class="clearfix"></div>
                      <i class="fa fa-linux fa-5x" aria-hidden="true"></i>
                      <h2 class="section-heading">linux system admin</h2>
-                     <p class="lead">I have been Red Hat certifed as a Linux
-                                    System Administrator as part of my training
-                                    at Rackspace's Open Cloud Academy where I was
-                                    trained in Linux, Apache web servers and MySQL.</p>
+                     <p class="lead">DevOps is the combination of developing software (Dev) and deployment (Ops).
+                        System administration is an essential portion of deploying software
+                        or getting a website on the internet. As a Red Hat certified Linux System Administrator
+                        I can utilize these skills to prepare and coordinate software or
+                        website deployment within a company's IT infrastructure.</p>
                      <a href="/resume/resume.php" class="btn-link">
                          <button class="button">LEARN MORE</button>
                      </a>
