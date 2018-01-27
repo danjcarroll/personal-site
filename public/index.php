@@ -105,9 +105,8 @@
                     <p class="lead">During a sabatical from civil engineering I trained at Codeup<link>
                         as a full stack web developer. Those skills now enable me to 
                         create web based solutions for civil engineers. Creating software as a service (SaaS) 
-                        for the engineering design teams, will provide them access to a fully quality controlled tools
-                        where continual improvements or corrections can be immediately distributed
-                        to every project and team.</p>
+                        for the engineering design teams, will provide them access to fully controlled tools
+                        where continual improvementscan be immediately distributed to every project and team.</p>
                     <a href="/portfolio/portfolio.php" class="btn-link">
                         <button class="button">SEE MY WORK</button>
                     </a>
@@ -119,7 +118,7 @@
                      <p class="lead">DevOps is the combination of developing software (Dev) and deployment (Ops).
                         System administration is an essential portion of deploying software
                         or getting a website on the internet. As a Red Hat certified Linux System Administrator
-                        I can utilize these skills to prepare and coordinate software or
+                        trained by Rackspace professionals I can utilize these skills to prepare and coordinate software or
                         website deployment within a company's IT infrastructure.</p>
                      <a href="/resume/resume.php" class="btn-link">
                          <button class="button">LEARN MORE</button>
